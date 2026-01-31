@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Ingrith-R2<br>👀 I’m interested in read books...<br>🌱 I’m currently learning how program in diferents languages..<br>💞️ I’m looking to collaborate in diferents projects.<br>📫 How to reach me for my email: dejaneiraromero@gmail.com or my number fhone: 0981402837
+👋 Hi, I’m Ingrith Revelo<br>👀 I’m interested in to learn new things as database or lenguage<br>🌱 I’m currently program in diferents languages and use some database<br>💞️ I’m looking to collaborate in diferents projects.<br>📫 How to reach me for my email: romerodejaneira@gmail.com or my number fhone: 0981402837
 
 
 # 💻 Tech Stack:
